@@ -3,7 +3,7 @@ RedDotRubyConf 2016 design
 
 Two directories:
 
-- `sources`: source artwork files, made with Affinity Designer.
+- `sources`: source artwork files, made with [Affinity Designer](https://affinity.serif.com/).
 - `exports`: files exported into `PDF` or `SVG` formats.
 
 Dribbbles:
